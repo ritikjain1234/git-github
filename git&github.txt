@@ -7,3 +7,9 @@
 if you reset the commit 
 5.  git reset git&github.txt           (git&github.txt->file name or you have multipal file then put ".") 
 6.  git checkout .			   (git&github.txt->file name or you have multipal file then put ".")  
+
+
+
+git add -A  (stages all)
+git add . (stages new and modified , without delete)
+git add -u (stages modified and deleted, withot new)
