@@ -2,4 +2,8 @@
 2.  git add .
 3.  git commit -m "masg"
 4.  git log                          (check how many commit are you do).
-5.  git 
+
+
+if you reset the commit 
+5.  git reset git&github.txt           (git&github.txt->file name or you have multipal file then put ".") 
+6.  git checkout .			   (git&github.txt->file name or you have multipal file then put ".")  
