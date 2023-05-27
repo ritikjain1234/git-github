@@ -1,4 +1,5 @@
 1.  git init
 2.  git add .
 3.  git commit -m "masg"
-4.  git log                          (check how many commit are you do)
+4.  git log                          (check how many commit are you do).
+5.  git 
