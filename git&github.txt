@@ -15,4 +15,14 @@ git add . (stages new and modified , without delete)
 git add -u (stages modified and deleted, withot new)
 
 
-local branch
+create a new branch:-
+1. git branch localgit(branch name)
+
+2. git checkout localgit
+
+
+
+delete a branch:-
+1. git branch -d localgit(this will delete local not a github).
+2. git push origin --delete localgit
+
