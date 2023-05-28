@@ -13,3 +13,6 @@ if you reset the commit
 git add -A  (stages all)
 git add . (stages new and modified , without delete)
 git add -u (stages modified and deleted, withot new)
+
+
+local branch
